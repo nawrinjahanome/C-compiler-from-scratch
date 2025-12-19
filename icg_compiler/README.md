@@ -16,21 +16,4 @@ This project uses classic lex/yacc (flex/bison) style tooling. Typical build ste
    - `flex lexer.l`
    - `bison -d parser.y`
 
-2. Compile generated and supporting sources with `gcc`.
-
-Adjust paths and commands to match your environment.
-
-
-## License
-
-See repository headers and project files for licensing details.
-History update 2 - Fri Dec 19 01:26:38 AM UTC 2025
-History update 3 - Fri Dec 19 01:26:39 AM UTC 2025
-History update 4 - Fri Dec 19 01:26:39 AM UTC 2025
-History update 5 - Fri Dec 19 01:26:40 AM UTC 2025
-History update 6 - Fri Dec 19 01:26:40 AM UTC 2025
-History update 7 - Fri Dec 19 01:26:41 AM UTC 2025
-History update 8 - Fri Dec 19 01:26:41 AM UTC 2025
-History update 9 - Fri Dec 19 01:26:41 AM UTC 2025
-History update 10 - Fri Dec 19 01:26:42 AM UTC 2025
-History update 11 - Fri Dec 19 01:26:58 AM UTC 2025
+2. Compile generated and supporting sources with `gcc`
